@@ -4,8 +4,6 @@ import App from "./app";
 import reportWebVitals from "./reportWebVitals";
 import { GlobalStyles } from "./global-styles";
 
-import "normalize.css";
-
 render(
   <React.Fragment>
     <GlobalStyles />
